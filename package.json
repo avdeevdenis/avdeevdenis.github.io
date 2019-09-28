@@ -1,0 +1,20 @@
+{
+  "name": "avdeevdenis.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "all": "git add . && git commit --amend --no-edit && git push -u origin master -f"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avdeevdenis/avdeevdenis.github.io.git"
+  },
+  "author": "Avdeev Denis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avdeevdenis/avdeevdenis.github.io/issues"
+  },
+  "homepage": "https://avdeevdenis.github.io/"
+}

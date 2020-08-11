@@ -1,9 +1,10 @@
 const host = 'https://avdeevdenis.github.io/';
 const cardsSelector = document.getElementsByClassName('cards')[0];
 const cardsContent = [
+    { name: 'SberLenta parser', link: 'tools-parser-api' },
     { name: 'Web wiki parser', link: 'web-wiki-parser' },
-    { name: 'Circles animation', link: 'circles-animation' },
     { name: 'Frontend drug parser', link: 'frontend-drug-parser' },
+    { name: 'Circles animation', link: 'circles-animation' },
     { name: 'Lego blocks', link: 'lego-blocks' },
     { name: 'Vk parser', link: 'vk-parser' },
     { name: 'React vk', link: 'https://react-vk.herokuapp.com/' },
